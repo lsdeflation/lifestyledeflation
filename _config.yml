@@ -16,7 +16,7 @@
 title: Lifestyle Deflation
 email: admin@lifestyledeflation.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Realistic views on personal finance, life and finding your own way.
+  Realistic thoughts on personal finance and life in general
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.lifestyledeflation.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lsdeflation
